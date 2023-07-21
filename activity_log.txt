@@ -1,40 +1,21 @@
-Activity: Sit-ups
-Calories Burned: 250 calories
-Number of Workouts: 0
-Duration: 30 minutes
-
-Activity: Sit-ups
-Calories Burned: 250 calories
+Activity: Push-ups
+Calories Burned: 305 calories
 Number of Workouts: 1
-Duration: 30 minutes
+Duration: 61 minutes
 
 Activity: Sit-ups
-Calories Burned: 250 calories
+Calories Burned: 458 calories
 Number of Workouts: 2
-Duration: 30 minutes
-
-Activity: Squats
-Calories Burned: 300 calories
-Number of Workouts: 0
-Duration: 60 minutes
-
-Activity: Sit-ups
-Calories Burned: 125 calories
-Number of Workouts: 1
-Duration: 15 minutes
-
-Activity: Squats
-Calories Burned: 250 calories
-Number of Workouts: 2
-Duration: 50 minutes
+Duration: 55 minutes
 
 Activity: Jumping Jacks
-Calories Burned: 700 calories
-Number of Workouts: 0
-Duration: 60 minutes
+Calories Burned: 466 calories
+Number of Workouts: 3
+Duration: 40 minutes
 
-Activity: Squats
-Calories Burned: 300 calories
-Number of Workouts: 1
-Duration: 60 minutes
+Activity: Yoga
+Calories Burned: 255 calories
+Number of Workouts: 4
+Duration: 51 minutes
+
 
