@@ -1,7 +1,9 @@
 import random
 
 
-def generate_workout_plan():
+# Added argument 'num_activities' to make the choices dynamically
+# Function to generate a workout plan with a specified number of activities
+def generate_workout_plan(num_activities):
     workouts = [
         "Push-ups",
         "Sit-ups",
@@ -14,7 +16,13 @@ def generate_workout_plan():
     ]
     workout_plan = []
 
-    for i in range(5):
+    # deleted '5'and added argument to make the choices dynamically
+    # Generate a workout plan with the specified number of activities
+    for i in range(num_activities):
         workout_plan.append(random.choice(workouts))
 
     return workout_plan
+# testing/debugging:
+# num_activities = int(input("Enter the number of activities you want in your workout plan: "))
+# workout_plan = generate_workout_plan(num_activities)
+# print(workout_plan)
