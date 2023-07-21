@@ -9,10 +9,10 @@ def generate_workout_plan(num_activities):
         "Sit-ups",
         "Squats",
         "Jumping Jacks",
-        "Push-ups",
-        "Sit-ups",
-        "Squats",
-        "Jumping Jacks",
+        "Running",
+        "Cycling",
+        "Swimming",
+        "Yoga",
     ]
     workout_plan = []
 
